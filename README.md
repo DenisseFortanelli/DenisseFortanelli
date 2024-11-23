@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **denissefc1@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ What I like to do: **What I like to do: I really like visiting new places, playing board games, going to the GYM... and, of course, coding.**
 
 ### ⚙️ &nbsp;GitHub Analytics
 
