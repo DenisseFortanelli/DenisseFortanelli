@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently I have the position of **UI Developer at Cordage**,💡 where I work on the development of high-quality software✅ and put into practice my programming, design, and component testing skills.🌟
 
-- 🌱 I’m currently learning **English Language and UI on Figma**
+- 🌱 I’m currently learning **English Language and UI**
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
