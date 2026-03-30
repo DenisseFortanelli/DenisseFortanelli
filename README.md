@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denisse Fortanelli</h1>
-<h3 align="center">A passionate React UI and Front-End Developer from Mexico</h3>
+<h3 align="center">A passionate React UI/Front-End Developer from Mexico</h3>
 
 - 🔭 I’m currently I have the position of **UI Developer at Cordage**,💡 where I work on the development of high-quality software✅ and put into practice my programming, design, and component testing skills.🌟
 
